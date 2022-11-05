@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(12, 221, 222);
+    opacity: 50%;
+}
+*{
+    text-align: center;
+}
+p{
+    border-style: dotted;
+}

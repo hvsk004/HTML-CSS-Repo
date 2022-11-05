@@ -1,0 +1,17 @@
+.div1{
+    background-color: yellowgreen;
+    border-style: solid;
+    border-color: brown;
+    margin: 50px;
+    padding: 20px;
+}
+.p1{
+    border: 4px dotted green;
+    background-color: aqua;
+
+
+}
+.p2{
+    border: 2px solid yellow;
+    background-color: darksalmon;
+}
